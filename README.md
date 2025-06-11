@@ -69,6 +69,7 @@ python main.py 110 42000
 ├── main.py               # Main script to run computations
 ├── setup_database.py     # Database setup and utility functions
 └── README.md             # Project documentation
+└── collatz_conjecture.db # Database which stores computed results (will be created when the script runs)
 ```
 
 ## How It Works
@@ -92,4 +93,4 @@ Feel free to open issues or submit pull requests for improvements!
 
 ## License
 
-This project is released under the MIT License.
+This project is released under the [MIT](LICENSE) License.
