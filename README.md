@@ -62,6 +62,11 @@ Compute sequences for numbers from 110 to 42,000 (database is cleared automatica
 python main.py 110 42000
 ```
 
+Sample output images from the CLI and the `collatz_conjecture.db` database, generated after running the script:
+
+![CLI Output](images/cli_sample.png)
+![Database Snapshot](images/db_sample.png)
+
 ## Project Structure
 
 ```
